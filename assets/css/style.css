@@ -189,7 +189,7 @@ body {
 .title-dec {
     /* border: 2px solid white; */
     font-size: 2rem;
-    width: 55%;
+    width: 60%;
     margin-left: 5rem;
     background: linear-gradient(to right, lime, lime);
     -webkit-background-clip: text;
